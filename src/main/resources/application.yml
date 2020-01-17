@@ -1,0 +1,4 @@
+simple.service:
+  enabled: true
+  prefix: www.
+  suffix: .com
